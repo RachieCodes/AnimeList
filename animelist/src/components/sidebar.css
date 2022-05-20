@@ -1,0 +1,20 @@
+a:link{
+   text-decoration: none;
+   color:black;
+}
+a:visited{
+    text-decoration: none;
+    color:black;
+}
+
+a:hover{
+    text-decoration: none;
+    color:darkcyan;
+}
+
+a{
+    display: block;
+    padding: 8px 16px;
+    text-align: left;
+    font-size: 14px;
+}
