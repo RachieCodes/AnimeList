@@ -18,3 +18,9 @@ a{
     text-align: left;
     font-size: 14px;
 }
+
+aside{
+    padding-right: 16px;
+    max-width: 250px; 
+    padding-top: 5px;
+}

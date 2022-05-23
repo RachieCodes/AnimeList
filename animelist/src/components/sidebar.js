@@ -1,4 +1,4 @@
-import "./sidebar.css"
+import "./sidebar.css";
 
 function sidebar({topAnime, topChar}) {
 
@@ -8,7 +8,7 @@ function sidebar({topAnime, topChar}) {
             {topAnime.map(anime => (
                 <a
                 href={anime.url}
-                tartget="_black"
+                target="_black"
                 key = {anime.mal_id}
                 rel="noreferrer">
                 { anime.title}
@@ -18,7 +18,7 @@ function sidebar({topAnime, topChar}) {
             {topChar.map(char => (
                 <a
                 href={char.url}
-                tartget="_black"
+                target="_black"
                 key = {char.mal_id}
                 rel="noreferrer">
                 { char.title}

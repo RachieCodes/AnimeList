@@ -3,4 +3,7 @@ h1{
     font-size: 32px;
     font-family: Georgia, 'Times New Roman', Times, serif;
     text-shadow: 1px;
+    height: 50px;
+    margin: auto;
+    padding-top: 10px;
 }

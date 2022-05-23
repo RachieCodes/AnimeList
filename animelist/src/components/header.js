@@ -2,9 +2,7 @@ import "./header.css";
 
 function header() {
     return ( 
-        <h1>
-         Book of Anime
-        </h1>
+            <h1>Book of Anime</h1>
      );
 }
 
